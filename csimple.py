@@ -5,3 +5,6 @@ class cassandraSimple:
     def __init__(self):
         self.cluster = Cluster(constants.CLUSTER_IP)
         self.session = self.connect()
+    
+    def connect(self):
+        session = self.cluster.connect()
