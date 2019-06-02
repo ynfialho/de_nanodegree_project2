@@ -1,4 +1,4 @@
-"artist","firstName","gender","itemInSession","lastName","length","level","location","sessionId","song","userId"
+"artist","first_name","gender","item_in_session","last_name","length","level","location","session_id","song","user_id"
 "Rokia TraorÃÂ©","Stefany","F","0","White","274.88608","free","Lubbock, TX","693","Zen","83"
 "Camila","Tucker","M","1","Garrison","230.81751","free","Oxnard-Thousand Oaks-Ventura, CA","555","Abrazame  (Version Acustica)","40"
 "Carl Thomas","Tucker","M","0","Garrison","196.67546","free","Oxnard-Thousand Oaks-Ventura, CA","698","You Ain't Right (Album Version)","40"
